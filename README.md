@@ -1,3 +1,5 @@
+A fork that fixes image processing pipeline by using the code from @magicboker's comment at: https://github.com/BradLarson/GPUImage/issues/2390
+
 # GPUImage #
 
 <div style="float: right"><img src="http://sunsetlakesoftware.com/sites/default/files/GPUImageLogo.png" /></div>

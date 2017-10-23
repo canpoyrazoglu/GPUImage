@@ -1,4 +1,4 @@
-A fork that fixes image processing pipeline by using the code from @magicboker's comment at: https://github.com/BradLarson/GPUImage/issues/2390
+A fork that fixes image processing pipeline by using the code from @magicboker's comment at: https://github.com/BradLarson/GPUImage/issues/2390 in addition to some of the code from other sources and some from my coworkers. I'm putting it here just for ease of dependency installation.
 
 # GPUImage #
 
